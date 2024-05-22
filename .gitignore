@@ -1,0 +1,9 @@
+# dir
+.idea
+.vscode
+
+# macos
+.DS_Store
+
+# file
+goapp/goapp
